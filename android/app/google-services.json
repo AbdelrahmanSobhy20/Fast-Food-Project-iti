@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260439776349",
+    "project_id": "iti-project-96d3c",
+    "storage_bucket": "iti-project-96d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260439776349:android:86cd135c7ab69e136981b4",
+        "android_client_info": {
+          "package_name": "com.example.fisrtapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260439776349-etic7dnbc11rgvfp4hucd57cqsnj66oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0rDtsKxyexdisPJmq2JJZSPM-yNt97Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260439776349-etic7dnbc11rgvfp4hucd57cqsnj66oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
